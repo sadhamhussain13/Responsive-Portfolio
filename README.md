@@ -1,4 +1,4 @@
-# 💼 Responsive Personal Portfolio Website Design
+# Responsive Personal Portfolio Website Design
 
 Welcome to my portfolio repository! This is where I showcase some of my projects and work.
 
