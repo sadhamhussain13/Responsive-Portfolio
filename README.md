@@ -16,9 +16,9 @@ Welcome to my portfolio repository! This is where I showcase some of my projects
 
 ## Portfolio websites can include
 
-- A high-quality image of yourself
-- Information about yourself
-- Your best projects
+- A high-quality image of mine
+- Information about myself
+- My best projects
 - Contact information
 - Relevant social media accounts
 
